@@ -1,1 +1,5 @@
-# omms
+# OMICS METADATA MANAGEMENT SYSTEM (OMMS)
+
+https://omms.sandia.gov/
+
+SCR# 1581
